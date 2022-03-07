@@ -1,0 +1,2 @@
+# Assets
+Mesh data etc.
